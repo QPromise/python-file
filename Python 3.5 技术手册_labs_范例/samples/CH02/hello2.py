@@ -1,0 +1,4 @@
+# coding: MS950
+name = input('¦WºÙ¡G')
+print('«¢Åo¡I', name, '¡I')
+
